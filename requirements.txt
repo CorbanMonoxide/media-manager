@@ -1,3 +1,4 @@
 ffmpeg-python
 moviepy
 paramiko
+customtkinter
